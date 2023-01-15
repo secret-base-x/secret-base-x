@@ -5,8 +5,11 @@
 - Facebook: [Secret Base X](https://www.facebook.com/profile.php?id=100089440093270)
 - Email: restingisimportant@gmail.com
 
-รับสอนเนื้อหาเหล่านี้ตัวต่อตัวครับ
-ชั่วโมงละ 500 บาท
+## รับสอน ReactJS TypeScript
+
+- รับสอนเนื้อหาเหล่านี้ตัวต่อตัวครับ
+- ชั่วโมงละ 500 บาท
+
 React With TypeScript
 ===
 - State และ Props
