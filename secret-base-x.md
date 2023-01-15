@@ -1,17 +1,25 @@
 # Secret Base X
 
+## Contents
+
+- [How to get job as a react developer for beginner](https://github.com/secret-base-x/how-get-get-job-as-a-react-developer-for-beginner)
+
 ## Contact: 
 
 - Facebook: [Secret Base X](https://www.facebook.com/profile.php?id=100089440093270)
 - Email: restingisimportant@gmail.com
 
-## รับสอน ReactJS TypeScript
+## Service
 
-- รับสอนเนื้อหาเหล่านี้ตัวต่อตัวครับ
+### รับสอนเขียนโปรแกรม
+
+### รายละเอียด 
+- ผู้สอนมีประสบการณ์เป็นโปรแกรมเมอร์กว่า 13 ปี
+- ผู้สอนประสบการณ์เขีย ReactJS กว่า 4 ปี
 - ชั่วโมงละ 500 บาท
 
-React With TypeScript
-===
+### React With TypeScript
+
 - State และ Props
 - React Hooks
 - Custom Hooks แบบต่าง ๆ
@@ -26,8 +34,4 @@ React With TypeScript
 - วิดิโอคอลคุยกัน
 - ให้ Guideline ให้โจทย์ไปทำ แล้วเอางานมานั่งดูกัน
 - ทำ Video Content ให้ อัดลง Youtube
-
-
-
-
 
