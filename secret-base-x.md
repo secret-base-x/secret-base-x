@@ -9,7 +9,7 @@
 - Facebook: [Secret Base X](https://www.facebook.com/profile.php?id=100089440093270)
 - Email: restingisimportant@gmail.com
 
-## Service
+## Services
 
 ### รับสอนเขียนโปรแกรม
 
